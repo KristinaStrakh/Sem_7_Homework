@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.AssemblyInfo.cs
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/ДЗ7/DZ7/bin/Debug/net6.0/DZ7
+/Users/kristina/Desktop/ДЗ7/DZ7/bin/Debug/net6.0/DZ7.deps.json
+/Users/kristina/Desktop/ДЗ7/DZ7/bin/Debug/net6.0/DZ7.runtimeconfig.json
+/Users/kristina/Desktop/ДЗ7/DZ7/bin/Debug/net6.0/DZ7.dll
+/Users/kristina/Desktop/ДЗ7/DZ7/bin/Debug/net6.0/ref/DZ7.dll
+/Users/kristina/Desktop/ДЗ7/DZ7/bin/Debug/net6.0/DZ7.pdb
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.dll
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/ref/DZ7.dll
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.pdb
+/Users/kristina/Desktop/ДЗ7/DZ7/obj/Debug/net6.0/DZ7.genruntimeconfig.cache
